@@ -730,7 +730,8 @@ call-to-action .button {
    padding: 0;
    font-size: 24px;
    line-height: 48px;
-   color: #fff
+   color: #fff;
+   font-weight: bold;
 }
 #testimonials blockquote cite {
    display: block;
